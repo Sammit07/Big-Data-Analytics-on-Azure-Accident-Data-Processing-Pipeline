@@ -83,8 +83,7 @@ The project was implemented step by step:
 
 ## 📊 Key Insights
 
-- The HiveQL query calculated the **total number of vehicles involved in accidents per weekday**.  
-- 🚗 **Saturday recorded the highest number of accidents with 647,338 vehicles involved**.  
+- The HiveQL query calculated the **total number of vehicles involved in accidents per weekday**.    
 
 ---
 
